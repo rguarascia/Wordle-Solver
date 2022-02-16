@@ -1,4 +1,4 @@
-## World Solver
+## Wordle Solver
 
 Run command
 

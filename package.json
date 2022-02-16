@@ -1,0 +1,17 @@
+{
+  "name": "world-solver",
+  "version": "1.0.0",
+  "description": "Simple revere engineer of wordle",
+  "main": "index.js",
+  "keywords": [
+    "wordle",
+    "wordle solver",
+    "wordle-solver",
+    "wordle solve"
+  ],
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ryan Guarascia",
+  "license": "MIT"
+}
